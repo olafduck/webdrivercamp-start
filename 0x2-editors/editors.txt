@@ -1,0 +1,13 @@
+0 - control+x control+f opens the current file in macs
+1 - control+x control+s saves the current file in emacs.
+2 - control+k cuts an entire line in emacs.
+3 - control+y pastes a line in emacs.
+4 - control+x u undoes the last change in emacs.
+5 - control+x control+c exits emacs.
+7 - "i" inserts text before the cursor, "a" inserts after the cursor.
+8 - "dd" deletes current line, "p" pastes the deleted line
+9 - "u" undoes the previous command.
+10 - ":q!" quits vi without saving.
+11 - "I" moves cursor to the beginning of the current line.
+12 - "A" moves cursor to the end of the current line.
+
